@@ -1,0 +1,57 @@
+# Blender3D MTL File: eye_surrealistic.blend
+# Material Count: 5
+newmtl iris_eye_texture.jpg
+Ns 66.666667
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.486472 0.622320 0.772774
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eye texture.jpg
+
+
+newmtl eye_eye_texture.jpg
+Ns 154.901961
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.363098 0.363098 0.363098
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eye texture.jpg
+
+
+newmtl pupil_eye_texture.jpg
+Ns 637.254902
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.079036 1.079036 1.079036
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eye texture.jpg
+
+
+newmtl cornea
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.515869 1.515869 1.515869
+Ni 3.000000
+d 0.287512
+illum 2
+map_Kd reflection.jpg
+
+
+newmtl line_eye_texture.jpg
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd eye texture.jpg
+
+
